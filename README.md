@@ -2,6 +2,8 @@
 
 ## [The Modern Javascript Bootcamp Course (2020)](https://www.udemy.com/course/javascript-beginners-complete-tutorial/)
 
+#### [--- Live Demo ----](https://hello-sheidi.github.io/movie-comparison/)
+
 ---
 
 App compares different statistics of two chosen by user movies and highlights the winner
